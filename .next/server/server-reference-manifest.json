@@ -1,0 +1,82 @@
+{
+  "node": {
+    "b5c7fa2ebca3c962ec243225a95f801128b1e408": {
+      "workers": {
+        "app/admin/elections/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Celections%5C%5C%5Bid%5D%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/elections/[id]/page": "rsc"
+      }
+    },
+    "fb95a6076d53682cf6a94f6f34845817f1dc5975": {
+      "workers": {
+        "app/admin/elections/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Celections%5C%5C%5Bid%5D%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/elections/[id]/page": "rsc"
+      }
+    },
+    "483ddd001c1b1555373b07f76b1f4a4dcd172809": {
+      "workers": {
+        "app/admin/elections/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Celections%5C%5C%5Bid%5D%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=!",
+        "app/admin/elections/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/elections/[id]/page": "rsc",
+        "app/admin/elections/[id]/edit/page": "action-browser"
+      }
+    },
+    "5b38e621ff03982e31c4f7de6d092d558ea9f48b": {
+      "workers": {
+        "app/admin/elections/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Celections%5C%5C%5Bid%5D%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=!",
+        "app/admin/elections/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/elections/[id]/page": "rsc",
+        "app/admin/elections/[id]/edit/page": "action-browser"
+      }
+    },
+    "6462e4bc9bcec7283e47b42e9cc1f0814f416bca": {
+      "workers": {
+        "app/admin/elections/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Celections%5C%5C%5Bid%5D%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=!",
+        "app/admin/elections/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/elections/[id]/page": "rsc",
+        "app/admin/elections/[id]/edit/page": "action-browser"
+      }
+    },
+    "7e3dcbfc3617744be40eaa1c2072ded5ce5bca3a": {
+      "workers": {
+        "app/admin/elections/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Celections%5C%5C%5Bid%5D%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=!",
+        "app/admin/elections/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/elections/[id]/page": "rsc",
+        "app/admin/elections/[id]/edit/page": "action-browser"
+      }
+    },
+    "81562cc23d1f70f830619572ba20533a5b4d4a39": {
+      "workers": {
+        "app/admin/elections/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Celections%5C%5C%5Bid%5D%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=!",
+        "app/admin/elections/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/elections/[id]/page": "rsc",
+        "app/admin/elections/[id]/edit/page": "action-browser"
+      }
+    },
+    "e9ae04adbde0247ce2f013095b84463fc4c24619": {
+      "workers": {
+        "app/admin/elections/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Celections%5C%5C%5Bid%5D%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=!",
+        "app/admin/elections/[id]/edit/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/elections/[id]/page": "rsc",
+        "app/admin/elections/[id]/edit/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "gC51thmo4vDdDWlFyhJAyzqLwkm15qpic0v5gJokozo="
+}
