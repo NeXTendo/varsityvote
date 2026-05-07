@@ -1,1 +1,6 @@
-{}
+{
+  "components\\admin\\users\\UsersTable.tsx -> @/lib/adminUsers": {
+    "id": "components\\admin\\users\\UsersTable.tsx -> @/lib/adminUsers",
+    "files": []
+  }
+}

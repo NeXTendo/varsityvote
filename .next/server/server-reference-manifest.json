@@ -1,5 +1,21 @@
 {
   "node": {
+    "3d20c7a24865f09905bc81edb933c7e14af39d76": {
+      "workers": {
+        "app/super-admin/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Caudit.ts%22%2C%5B%22logAction%22%2C%22getAuditLogs%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/super-admin/dashboard/page": "rsc"
+      }
+    },
+    "b64a94d998a4b99fcfd8cc29cfda8183e4f77611": {
+      "workers": {
+        "app/super-admin/dashboard/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Caudit.ts%22%2C%5B%22logAction%22%2C%22getAuditLogs%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/super-admin/dashboard/page": "rsc"
+      }
+    },
     "b5c7fa2ebca3c962ec243225a95f801128b1e408": {
       "workers": {
         "app/admin/elections/[id]/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Celections%5C%5C%5Bid%5D%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Celections.ts%22%2C%5B%22updateElectionWindow%22%2C%22toggleResultsVisibility%22%2C%22getElection%22%2C%22updateElection%22%2C%22updateElectionStatus%22%2C%22getElections%22%5D%5D%5D&__client_imported__=!"
@@ -75,8 +91,128 @@
         "app/admin/elections/[id]/page": "rsc",
         "app/admin/elections/[id]/edit/page": "action-browser"
       }
+    },
+    "ade02266c54a624d4799ee629686a39e43480fd1": {
+      "workers": {
+        "app/admin/candidates/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Ccandidates%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Ccandidates.ts%22%2C%5B%22getCandidates%22%2C%22reviewCandidate%22%2C%22approveCandidate%22%2C%22rejectCandidate%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/candidates/page": "rsc"
+      }
+    },
+    "ddce83c0b6bdac72d96b1ff40a194fb3e8336950": {
+      "workers": {
+        "app/admin/candidates/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Ccandidates%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Ccandidates.ts%22%2C%5B%22getCandidates%22%2C%22reviewCandidate%22%2C%22approveCandidate%22%2C%22rejectCandidate%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/candidates/page": "rsc"
+      }
+    },
+    "23f7878199ddb42729e3e1622660dec424db3c67": {
+      "workers": {
+        "app/admin/candidates/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Ccandidates%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Ccandidates.ts%22%2C%5B%22getCandidates%22%2C%22reviewCandidate%22%2C%22approveCandidate%22%2C%22rejectCandidate%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/candidates/page": "rsc"
+      }
+    },
+    "295dd5294f7449ff1aef8c7f90fa96b2bf32c8b6": {
+      "workers": {
+        "app/admin/candidates/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Ccandidates%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Ccandidates.ts%22%2C%5B%22getCandidates%22%2C%22reviewCandidate%22%2C%22approveCandidate%22%2C%22rejectCandidate%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/candidates/page": "rsc"
+      }
+    },
+    "508fc7355a135e6b66d2c0e89d5f3832b8e259c9": {
+      "workers": {
+        "app/admin/candidates/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Ccandidates%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Ccandidates.ts%22%2C%5B%22getCandidates%22%2C%22reviewCandidate%22%2C%22approveCandidate%22%2C%22rejectCandidate%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/candidates/page": "rsc"
+      }
+    },
+    "bbf552a84384df24d24d64308a6a5636066465d4": {
+      "workers": {
+        "app/admin/candidates/page": "(rsc)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Capp%5C%5Cadmin%5C%5Ccandidates%5C%5Cpage.tsx%22%2C%5B%22%24%24ACTION_0%22%2C%22%24%24ACTION_1%22%5D%5D%2C%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5Ccandidates.ts%22%2C%5B%22getCandidates%22%2C%22reviewCandidate%22%2C%22approveCandidate%22%2C%22rejectCandidate%22%5D%5D%5D&__client_imported__=!"
+      },
+      "layer": {
+        "app/admin/candidates/page": "rsc"
+      }
+    },
+    "187094eedf94b0cfdfcadb397d3ec9e0a7bf87ab": {
+      "workers": {
+        "app/admin/users/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5CadminUsers.ts%22%2C%5B%22sendMagicLink%22%2C%22setUserActive%22%2C%22registerUserForElection%22%2C%22bulkSetActive%22%2C%22deleteUserAccount%22%2C%22forcePasswordReset%22%2C%22changeUserRole%22%2C%22resetToDefaultPassword%22%2C%22updateUserInfo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      }
+    },
+    "2e10aa6aa0dfde3d7addf121082f2d8e1fbc2fc6": {
+      "workers": {
+        "app/admin/users/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5CadminUsers.ts%22%2C%5B%22sendMagicLink%22%2C%22setUserActive%22%2C%22registerUserForElection%22%2C%22bulkSetActive%22%2C%22deleteUserAccount%22%2C%22forcePasswordReset%22%2C%22changeUserRole%22%2C%22resetToDefaultPassword%22%2C%22updateUserInfo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      }
+    },
+    "32d2e589cd9d026eadabaef1efb953edce9d07f2": {
+      "workers": {
+        "app/admin/users/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5CadminUsers.ts%22%2C%5B%22sendMagicLink%22%2C%22setUserActive%22%2C%22registerUserForElection%22%2C%22bulkSetActive%22%2C%22deleteUserAccount%22%2C%22forcePasswordReset%22%2C%22changeUserRole%22%2C%22resetToDefaultPassword%22%2C%22updateUserInfo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      }
+    },
+    "3952156bf0b76fc2305473f490b8d3c0f892bdac": {
+      "workers": {
+        "app/admin/users/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5CadminUsers.ts%22%2C%5B%22sendMagicLink%22%2C%22setUserActive%22%2C%22registerUserForElection%22%2C%22bulkSetActive%22%2C%22deleteUserAccount%22%2C%22forcePasswordReset%22%2C%22changeUserRole%22%2C%22resetToDefaultPassword%22%2C%22updateUserInfo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      }
+    },
+    "58785276a8ad153327113aaf6799f40f85c1431d": {
+      "workers": {
+        "app/admin/users/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5CadminUsers.ts%22%2C%5B%22sendMagicLink%22%2C%22setUserActive%22%2C%22registerUserForElection%22%2C%22bulkSetActive%22%2C%22deleteUserAccount%22%2C%22forcePasswordReset%22%2C%22changeUserRole%22%2C%22resetToDefaultPassword%22%2C%22updateUserInfo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      }
+    },
+    "9f8ae127bab30ac3424450710c35328332d81302": {
+      "workers": {
+        "app/admin/users/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5CadminUsers.ts%22%2C%5B%22sendMagicLink%22%2C%22setUserActive%22%2C%22registerUserForElection%22%2C%22bulkSetActive%22%2C%22deleteUserAccount%22%2C%22forcePasswordReset%22%2C%22changeUserRole%22%2C%22resetToDefaultPassword%22%2C%22updateUserInfo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      }
+    },
+    "bcf29095327494aec8bff4607a941dc584e6f511": {
+      "workers": {
+        "app/admin/users/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5CadminUsers.ts%22%2C%5B%22sendMagicLink%22%2C%22setUserActive%22%2C%22registerUserForElection%22%2C%22bulkSetActive%22%2C%22deleteUserAccount%22%2C%22forcePasswordReset%22%2C%22changeUserRole%22%2C%22resetToDefaultPassword%22%2C%22updateUserInfo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      }
+    },
+    "dd9fdd8a7308df984d1ee0bd15a5e8c6ec3de13c": {
+      "workers": {
+        "app/admin/users/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5CadminUsers.ts%22%2C%5B%22sendMagicLink%22%2C%22setUserActive%22%2C%22registerUserForElection%22%2C%22bulkSetActive%22%2C%22deleteUserAccount%22%2C%22forcePasswordReset%22%2C%22changeUserRole%22%2C%22resetToDefaultPassword%22%2C%22updateUserInfo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      }
+    },
+    "edb894352e69e821f609d53ec19c36913250c63f": {
+      "workers": {
+        "app/admin/users/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22C%3A%5C%5CUsers%5C%5CUser%5C%5CDocuments%5C%5CCode%5C%5Cvarsityvote%5C%5Csrc%5C%5Clib%5C%5CadminUsers.ts%22%2C%5B%22sendMagicLink%22%2C%22setUserActive%22%2C%22registerUserForElection%22%2C%22bulkSetActive%22%2C%22deleteUserAccount%22%2C%22forcePasswordReset%22%2C%22changeUserRole%22%2C%22resetToDefaultPassword%22%2C%22updateUserInfo%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/admin/users/page": "action-browser"
+      }
     }
   },
   "edge": {},
-  "encryptionKey": "gC51thmo4vDdDWlFyhJAyzqLwkm15qpic0v5gJokozo="
+  "encryptionKey": "aCjJwGbDkDDMtD5URpPKlbc3OguzVmFP6ZT1ZcETPjo="
 }

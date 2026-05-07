@@ -1,8 +1,8 @@
 {
-  "/admin/elections/page": "app/admin/elections/page.js",
-  "/admin/elections/[id]/page": "app/admin/elections/[id]/page.js",
+  "/admin/dashboard/page": "app/admin/dashboard/page.js",
   "/admin/elections/[id]/edit/page": "app/admin/elections/[id]/edit/page.js",
-  "/admin/elections/[id]/candidates/page": "app/admin/elections/[id]/candidates/page.js",
-  "/voter/results/page": "app/voter/results/page.js",
-  "/voter/elections/page": "app/voter/elections/page.js"
+  "/admin/elections/page": "app/admin/elections/page.js",
+  "/admin/candidates/page": "app/admin/candidates/page.js",
+  "/admin/elections/[id]/page": "app/admin/elections/[id]/page.js",
+  "/admin/users/page": "app/admin/users/page.js"
 }
